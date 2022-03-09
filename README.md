@@ -1,6 +1,6 @@
 # Hi, I’m *@slckr-mm*
 
-👀<br>I’m interested in coding, music, design & diy
+👀<br>I’m interested in coding, music, design & DIY
 
 💻<br>I’m currently learning web & app development 
 
