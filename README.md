@@ -2,7 +2,7 @@
 
 👀<br>I’m interested in coding, music, design & DIY
 
-💻<br>I’m currently learning web & app development 
+💻<br>I’m currently learning app & web development. 
 
 🤜 🤛<br>I’m looking to collaborate on simple things for the moment. I'd like to get used to git and coding.
 
