@@ -2,8 +2,8 @@
 
 👀<br>I’m interested in coding, music, design & DIY
 
-💻<br>I’m currently learning app & web development. 
+💻<br>I’m currently working at Medienmonster and continue learning app & web development. 
 
-🤜 🤛<br>I’m looking to collaborate on simple things for the moment. I'd like to get used to git and coding.
+🤜 🤛<br>I’m looking to collaborate on simple things for the moment. I'd like to get used to git and coding. If you have a nice little music app going on in C/C++, feel free to let me know! Thanks!
 
 🤓<br>I can do proofreading in English and German for your documentation.
