@@ -1,4 +1,4 @@
-# Hi, I’m *@slckr-mm*
+# Hi, I’m *@JanSalecker*
 
 👀<br>I’m interested in coding, music, design & DIY
 
